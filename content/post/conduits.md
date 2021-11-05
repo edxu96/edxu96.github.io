@@ -3,6 +3,7 @@ title = "Model steady flow in conduits"
 date = 2021-08-15
 tags = ["network-infrastructure"]
 math = false
+draft = true
 +++
 
 The infrastructure like transmission grids, distribution grids, district

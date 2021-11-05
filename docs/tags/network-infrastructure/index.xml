@@ -6,20 +6,7 @@
     <description>Recent content in network-infrastructure on Edward Xu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0200</lastBuildDate><atom:link href="https://edxu96.github.io/tags/network-infrastructure/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Model steady flow in conduits</title>
-      <link>https://edxu96.github.io/post/conduits/</link>
-      <pubDate>Sun, 15 Aug 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://edxu96.github.io/post/conduits/</guid>
-      <description>&lt;p&gt;The infrastructure like transmission grids, distribution grids, district
-heating, gas transportation, and &lt;a href=&#34;https://en.wikipedia.org/wiki/Thermodynamic_cycle&#34; target=&#34;_blank&#34;&gt;thermodynamic
-cycle&lt;/a&gt; can be modelled in a
-similar way, at least when they are in steady state. A special type of
-bipartite consisting two types of buses is brought up here.&lt;/p&gt;</description>
-    </item>
-    
+    <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0200</lastBuildDate><atom:link href="https://edxu96.github.io/tags/network-infrastructure/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Snapshots for a Graph in Database</title>
       <link>https://edxu96.github.io/post/snapshots/</link>

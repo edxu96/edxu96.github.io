@@ -6,20 +6,7 @@
     <description>Recent content on Edward Xu</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Aug 2021 00:00:00 +0200</lastBuildDate><atom:link href="https://edxu96.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Model steady flow in conduits</title>
-      <link>https://edxu96.github.io/post/conduits/</link>
-      <pubDate>Sun, 15 Aug 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://edxu96.github.io/post/conduits/</guid>
-      <description>&lt;p&gt;The infrastructure like transmission grids, distribution grids, district
-heating, gas transportation, and &lt;a href=&#34;https://en.wikipedia.org/wiki/Thermodynamic_cycle&#34; target=&#34;_blank&#34;&gt;thermodynamic
-cycle&lt;/a&gt; can be modelled in a
-similar way, at least when they are in steady state. A special type of
-bipartite consisting two types of buses is brought up here.&lt;/p&gt;</description>
-    </item>
-    
+    <lastBuildDate>Thu, 03 Jun 2021 00:00:00 +0200</lastBuildDate><atom:link href="https://edxu96.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>&#34;cmdict&#34; for German vocabulary</title>
       <link>https://edxu96.github.io/post/german/</link>
@@ -27,18 +14,6 @@ bipartite consisting two types of buses is brought up here.&lt;/p&gt;</descripti
       
       <guid>https://edxu96.github.io/post/german/</guid>
       <description>&lt;p&gt;Most of the content for German vocabulary is crawled online.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Notes for Spanning Arborescence</title>
-      <link>https://edxu96.github.io/post/arborescence/</link>
-      <pubDate>Fri, 23 Apr 2021 00:00:00 +0200</pubDate>
-      
-      <guid>https://edxu96.github.io/post/arborescence/</guid>
-      <description>&lt;div class=&#34;paragraph&#34;&gt;
-&lt;p&gt;Here are the notes for three algorithms of spanning arborescences of some
-directed graph.&lt;/p&gt;
-&lt;/div&gt;</description>
     </item>
     
     <item>

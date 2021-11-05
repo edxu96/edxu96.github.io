@@ -3,6 +3,7 @@ title = "What is cmdict"
 date = 2021-05-24
 tags = ["linguistics"]
 math = false
+draft = true
 +++
 
 `cmdict` is a computational tool for personal vocabulary construction. The
