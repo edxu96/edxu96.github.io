@@ -21,6 +21,17 @@ All the crawled content is cross-validated.
 - Different Python enumerations are designed.
 
 
+> The relationship between letters and the sounds they represent is more
+> straightforward in German than in English and, in general, each sound of
+> German corresponds to a single letter or group of letters. However, there are
+> a few exceptions to this. [durrell2013hammer](#references)
+
+> We can distinguish in German between simple words (or ‘root words’) like
+> Kind, dort and schön, which cannot be broken down, and complex words like
+> kindisch, dortig and Schönheit, which are made up of more than one component
+> and are derived from simple words in some way.
+> [durrell2013hammer](#references)
+
 ## Basic Info
 
 - Different Python enumerations are designed.
