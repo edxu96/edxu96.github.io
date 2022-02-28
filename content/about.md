@@ -24,6 +24,31 @@ You can know more about him through https://edxu96.github.io/ and have a look
 at [his resume](https://edxu96.github.io/files/resume.pdf). His email address
 is *github_username[at]outlook[dot]com*.
 
+## This Website
+
+Posts are revised from time to time. No major update will be made, and all the
+minor updates will be summarised at the bottom of the post.
+
+Most likely, there is a short description associated with a tag. To be directed
+to the description page, click the tag in the side bar. Take the tag
+"network-infrastructure" for example, The link is
+https://edxu96.github.io/tags/network-infrastructure/. In addition, some
+(reading) materials are recommended there.
+
+## My Resume
+
+<div id="adobe-dc-view" style="width: 100%;"></div>
+<script src="https://documentcloud.adobe.com/view-sdk/main.js"></script>
+<script type="text/javascript">
+	document.addEventListener("adobe_dc_view_sdk.ready", function(){
+		var adobeDCView = new AdobeDC.View({clientId: "49829f3c788642f5a7ac64d5642e2c2c", divId: "adobe-dc-view"});
+		adobeDCView.previewFile({
+			content:{location: {url: "https://edxu96.github.io/files/resume.pdf"}},
+			metaData:{fileName: "resume.pdf"}
+		}, {embedMode: "IN_LINE"});
+	});
+</script>
+
 ## 中文简介
 
 许杰：
@@ -34,14 +59,3 @@ is *github_username[at]outlook[dot]com*.
 - 数学建模/软件工程师，encoord 公司
 - [中文简历](/files/resume_zh.pdf)
 - 请发邮件联系我，github_username[at]outlook[dot]com
-
-## Notes for this Website
-
-Posts are revised from time to time. No major update will be made, and all the
-minor updates will be summarised at the bottom of the post.
-
-Most likely, there is a short description associated with a tag. To be directed
-to the description page, click the tag in the side bar. Take the tag
-"network-infrastructure" for example, The link is
-https://edxu96.github.io/tags/network-infrastructure/. In addition, some
-(reading) materials are recommended there.
